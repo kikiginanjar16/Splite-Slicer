@@ -1,0 +1,5 @@
+{
+  "name": "SpriteMaster AI - Smart Sprite Slicer",
+  "description": "An advanced sprite sheet slicing tool with AI-powered auto-detection, grid-based slicing, and smart naming features.",
+  "requestFramePermissions": []
+}
